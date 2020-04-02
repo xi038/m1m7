@@ -2,16 +2,19 @@
     {
         "name": "bname",
         "author": "authorname",
-        "url": "url"
+        "url": "url",
+        "category": "category"
     },
     {
         "name": "bname",
         "author": "authorname",
-        "url": "url"
+        "url": "url",
+        "category": "category"
     },
     {
         "name": "bname",
         "author": "authorname",
-        "url": "url"
+        "url": "url",
+        "category": "category"
     }
 ]
