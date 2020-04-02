@@ -3,18 +3,24 @@
         "name": "bname",
         "author": "authorname",
         "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/b1.html",
-        "category": "category"
+        "category": "Chemistry"
     },
     {
-        "name": "maungkochital",
+        "name": "bname",
         "author": "authorname",
-        "url": "https://channelmyanmar.org/tvshows/the-writers-project-lhong-fai-2017/",
-        "category": "category"
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/b1.html",
+        "category": "GK"
     },
     {
-        "name": "helloworld",
+        "name": "100 English Lesson",
         "author": "authorname",
-        "url": "https://channelmyanmar.org/tvshows/the-writers-project-lhong-fai-2017/",
-        "category": "this is category"
+        "url": "https://www.englishspeak.com/my/english-lessons",
+        "category": "English"
+    },
+    {
+        "name": "1000 English Phrase",
+        "author": "authorname",
+        "url": "https://www.englishspeak.com/my/english-phrases",
+        "category": "English"
     }
 ]
