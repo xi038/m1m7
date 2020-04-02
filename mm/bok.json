@@ -1,26 +1,38 @@
 [
     {
-        "name": "Common 100 Phrases - အသုံးများသောအင်္ဂလိပ်စကားစု ၁၀၀",
+        "name": "Greeting - နှုတ်ခွန်းဆက်ခြင်း",
         "author": "englishspeak.com",
-        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/100%20english-phrases.html",
-        "category": "English"
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/greeting.html",
+        "category": "English,Speaking"
     },
     {
-        "name": "bname",
-        "author": "authorname",
-        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/b1.html",
-        "category": "GK"
+        "name": "Travelling - ခရီးသွားခြင်း၊ လမ်းညွှန်",
+        "author": "englishspeak.com",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/travel.html",
+        "category": "English,Speaking"
     },
     {
-        "name": "100 English Lesson",
-        "author": "authorname",
-        "url": "https://www.englishspeak.com/my/english-lessons",
-        "category": "English"
+        "name": "Currency - ဂဏန်းများ နှင့် ငွေကြေး",
+        "author": "englishspeak.com",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/countmoney.html",
+        "category": "English,Speaking"
     },
     {
-        "name": "1000 English Phrase",
-        "author": "authorname",
-        "url": "https://www.englishspeak.com/my/english-phrases",
-        "category": "English"
+        "name": "Location - တည်နေရာ",
+        "author": "englishspeak.com",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/location.html",
+        "category": "English,Speaking"
+    },
+    {
+        "name": "Communication - ဖုန်း၊ အင်တာနက်၊ မေးလ်",
+        "author": "englishspeak.com",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/networking.html",
+        "category": "English,Speaking"
+    },
+    {
+        "name": "Date & Time - အချိန် နှင့် နေ့စွဲများ",
+        "author": "englishspeak.com",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/datetime.html",
+        "category": "English,Speaking"
     }
 ]
