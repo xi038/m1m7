@@ -1,5 +1,65 @@
 [
     {
+        "name": "Guest - တည်းခိုခြင်း",
+        "author": "englishspeak.com",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/guest.html",
+        "category": "English,Speaking"
+    },
+    {
+        "name": "Food - စားသောက်ခြင်း",
+        "author": "englishspeak.com",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/eating.html",
+        "category": "English,Speaking"
+    },
+    {
+        "name": "Friend - မိတ်ဆွေဖွဲ့ခြင်း",
+        "author": "englishspeak.com",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/friend.html",
+        "category": "English,Speaking"
+    },
+    {
+        "name": "Entertainment - ဖြေဖျော်မှု",
+        "author": "englishspeak.com",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/entertainment.html",
+        "category": "English,Speaking"
+    },
+    {
+        "name": "Shopping - ဈေးဝယ်ထွက်ခြင်း",
+        "author": "englishspeak.com",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/shopping.html",
+        "category": "English,Speaking"
+    },
+    {
+        "name": "Communicate - ဆက်သွယ်မှု အခက်အခဲများ",
+        "author": "englishspeak.com",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/business2.html",
+        "category": "English,Speaking"
+    },
+    {
+        "name": "Emergency & Health - အရေးပေါ် နှင့် ကျန်းမာရေး",
+        "author": "englishspeak.com",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/health.html",
+        "category": "English,Speaking"
+    },
+    {
+        "name": "General - အထွေထွေမေးခွန်းများ",
+        "author": "englishspeak.com",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/gereral.html",
+        "category": "English,Speaking"
+    },
+    {
+        "name": "Working - အလုပ်",
+        "author": "englishspeak.com",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/work.html",
+        "category": "English,Speaking"
+    },
+    {
+        "name": "Weather - ရာသီဥတု",
+        "author": "englishspeak.com",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/weather.html",
+        "category": "English,Speaking"
+    },
+    {
         "name": "Greeting - နှုတ်ခွန်းဆက်ခြင်း",
         "author": "englishspeak.com",
         "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/greeting.html",
