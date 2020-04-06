@@ -101,442 +101,70 @@
         "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/books.html",
         "category": "Ebook, PDF, Books"
     },
-     {
-        "name": "လူနက်ကြီး - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/lu%20net%20gyi.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "မှော်ဝင်ကြေးမုံ - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/mor%20win%20kyay%20mone.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "တို့ဆေး - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/toe%20say.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "မဖဲဝါရဲ့ကျောက်ရုပ် - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/ma%20phae%20war%20yae%20kyote%20yoke.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "ရေမျောကမ်းတင် - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/yay%20myaw%20kan%20tin.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "တွင်းအောင်းတစ္ဆေ - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/twin%20aung%20ta%20say.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "လူသေရင်တစ္ဆေဖြစ်သတဲ့လား - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/lu%20thay%20yin%20ta%20say.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "ဘိုးမီးသွေး - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/foe%20mee%20thway.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "ချစ်ကလဲ့စား - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/chit%20kala%20sar.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "ပဉ္စလောဟာအရုပ် - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/pyin%20sa%20law%20ka%20ayote.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "ဂူအောင်းကဝေ - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/pyin%20sa%20law%20ka%20ayote.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "ကန်တော်ကဝေမ - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/kantaw%20kawai%20ma.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "ရေတံခွန်ချောင်း - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/yay%20ta%20gon%20chaung.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "ကျတ်တွင်း - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/kyat%20twin.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "တစ္ဆေလက်သီး - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/ta%20say%20latt%20thee.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "သရဲပေတလူ - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/tha%20ye%20pay%20ta%20lu.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "မဖဲဝါကို ကိုက်တဲ့မိကျောင်း - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/ma%20phae%20war%20kite%20tae%20mee%20chaung.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "လူခြောက်မယား - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/lu%20chauk%20mayar.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "သူခိုးခြေရာ - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/tha%20khoe%20chay%20yar.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "အသူရကာယ်ဘုံ - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/a%20thu%20racal%20bone.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "ကဝေသွေး - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/kaway%20thway.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "မဖဲဝါရဲ့မဖဲဝါ - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/ma%20phal%20war%20ye%20ma%20phal%20war.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "ငကျောက်ဖားဂူ - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/nga%20kyauk%20phar%20gu.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "နတ်ခုန်ချောင်း - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/nat%20khone%20chaung.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "အရမ်းခြောက်တဲ့ တစ္ဆေ - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/ayan%20chauk%20tae%20tasay.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "ပဉ္စလက်မှော် - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/pyin%20sa%20lat%20mhaw.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "ဘီလူးစောင့်တဲ့အင်း - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/blue%20saung%20tae%20inn.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "တောင်တော်ဘုရင်မ - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/taung%20taw%20bayin%20ma.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "ဝမ်းတွင်းစုန်း - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/one%20twin%20sone.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "စုန်းထီး - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/sone%20htee.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "ပျော်တတ်တဲ့ ဝိညာဉ် - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/pyaw%20tatt%20tae%20witt%20nyin.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "မုန်းသူ့ရန်ငြိုး - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/mone%20thu%20yan%20nyoe.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "နဂါးပတ်ကျော့ကွင်း - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/nagar%20pat%20kyawt%20kwin.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "အင်းကြီးတစ္ဆေ - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/Inn%20Gyi%20Ta%20Say.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "မဖဲဝါရဲ့မဖဲဝါ ၁ - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/ma%20phae%20war%20ya%20ma%20phae%20war%201.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "ဘီလူးအော်သံ - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/blue%20aww%20than.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "တာတေကို တစ္ဆေခြောက်တယ် - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/tar%20tay%20ko%20tasay%20chauk%20tal.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "ဆရာပြန်ပြေး ဘုရားကလေး - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/sayar%20pyan%20pyay%20phayar%20ka%20lay.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "ကျီးကန်းမ - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/kyee%20kan%20ma.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "ကိုးသင်းချိုင်း ပုဆိန် - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/koe%20thin%20gyain%20pa%20sine.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "တစ္ဆေထောင်ခြောက် - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/ta%20say%20htaung%20chauk.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "တောင်ပုလဲကုန်း - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/taung%20palae%20kone.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "တစ္ဆေရန်ငြိုး - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/tasayyannyoe.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "တတိယမျက်လုံး - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/tatiyamyatlone.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "ဈေးသရဲ - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/zaythayae.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "လူသတ်ကုန်းက မဖဲဝါ - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/luthetkonekamaphaewar.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "ခွေးနက်ကြီးရဲ့အော်သံ - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/kwaynetkyiyaeouthan.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "တစ္ဆေလေးနေတဲ့အိမ် - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/tasaylaynaytaeeain.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "ဖဲသမား အသုဘ - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/phaethamarathuba.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "ခွေးနက်ကြီးနဲ့သိုက်စောင့်သရဲ - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/kwaynetkyinaethikesountthaye.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "တပွဲစားသရဲ - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/tapwalsarthaye.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "မဖဲဝါမဝင်ရ - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/maphaewarmawinya.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "ခေါင်းရောင်းတဲ့ဆိုင် - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/kaungyoungtaesaing.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "မဖဲဝါထမ်းတဲ့ခေါင်း - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/maphaewarhtantaekaung.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "မဖဲဝါအသက် ၄၄ နှစ် - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/maphaewarathet44.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "အင်းသရဲ - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/innthayae.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "မြောက်ရိုးကဇောက်ထိုး - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/myokeyoekazoukhtoe.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "ကိုယ်တော်လေးရဲ့ကြင်ယာတော် - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/kotawlayyekyinyartaw.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "မဖဲဝါမွေးတဲ့သား - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/maphaewarmwaytaethar.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "ကြိုးနဲ့ကာတဲ့ခြံ - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/kyoenaekartaechan.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "ဂဝံမျက်နှာဖုံး - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/gawinmyatnarphone.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
-    {
-        "name": "လူနီကလေး - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/lunikalay.html",
-        "author": "",
-        "category": "Ghost,Short Story"
-    },
     {
-        "name": "ကဝေပျိုအလွမ်း - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/kawaipyoalwan.html",
-        "author": "",
-        "category": "Ghost,Short Story"
+        "name": "ကမ္ဘာ့ခေါင်းဆောင်များ",
+        "author": "Source Facebook",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/worldleader1.html",
+        "category": "GK, World"
     },
     {
-        "name": "ဝိဉာဉ်စုတ်တဲ့နတ် - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/wuitnyinsotetaenat.html",
-        "author": "",
-        "category": "Ghost,Short Story"
+        "name": "အထိမ်းအမှတ်နေ့များ ၁",
+        "author": "Source Facebook",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/days1.html",
+        "category": "GK, World+Myanmar"
     },
     {
-        "name": "ဖဲသမားစကား - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/phaethamarsagar.html",
-        "author": "",
-        "category": "Ghost,Short Story"
+        "name": "Grammar Poem 1",
+        "author": "Source Facebook",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/grammarpoem1.html",
+        "category": "English, Grammar"
     },
     {
-        "name": "ခြေရာတစ်ထောင်ငနက်မှောင် - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/chayartahtaungnganatmaung.html",
-        "author": "",
-        "category": "Ghost,Short Story"
+        "name": "မေးခွန်းဟောင်း 1",
+        "author": "Source Facebook",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/lukalpyan.html",
+        "category": "Old Question"
     },
     {
-        "name": "စုန်းမ - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/sonema.html",
-        "author": "",
-        "category": "Ghost,Short Story"
+        "name": "အထွေထွေမှတ်စု - GK1",
+        "author": "Source Facebook",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/gk1.html",
+        "category": "GK, Myanmar"
     },
     {
-        "name": "သရဲနက်ကျော် - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/thayaenatkyaw.html",
-        "author": "",
-        "category": "Ghost,Short Story"
+        "name": "မြန်မာ့နေရာဒေသများ ၁",
+        "author": "Source Facebook",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/myanmarplace.html",
+        "category": "GK, Myanmar"
     },
     {
-        "name": "စောရဦးခေါင်း - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/sawyaoogaung.html",
-        "author": "",
-        "category": "Ghost,Short Story"
+        "name": "Letter & Essay 1",
+        "author": "Source Facebook",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/essayletter.html",
+        "category": "English, Letter, Essay"
     },
     {
-        "name": "စုန်းကြောက်တဲ့ဗုံ - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/sonekyauttaebone.html",
-        "author": "",
-        "category": "Ghost,Short Story"
+        "name": "နေပြည်တော်မြို့အကြောင်း",
+        "author": "Source Facebook",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/naypyitaw.html",
+        "category": "GK, Myanmar, City"
     },
     {
-        "name": "ကပ္ပလီကဝေမ - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/catplikawayma.html",
-        "author": "",
-        "category": "Ghost,Short Story"
+        "name": "Read The Passage Tips 1",
+        "author": "Source Facebook",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/readthepassage1.html",
+        "category": "English, Read the passage"
     },
     {
-        "name": "ခွာမဲ - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/kwarmal.html",
-        "author": "",
-        "category": "Ghost,Short Story"
+        "name": "အာဇာနည်ကိုးဦး",
+        "author": "Source Facebook",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/arzarni9.html",
+        "category": "GK, Myanmar"
     },
     {
-        "name": "မှင်စာဆိုးပေ - တာတေ",
-        "url": "https://raw.githubusercontent.com/xi038/xighstry/master/docs/min%20sar%20soe%20pay.html",
-        "author": "",
-        "category": "Ghost,Short Story"
+        "name": "အသုံးအနှုန်းများ - say,tell,talk,ask",
+        "author": "Source Facebook",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/saytelltalkask.html",
+        "category": "English, Usage, Speaking"
     }
 ]
