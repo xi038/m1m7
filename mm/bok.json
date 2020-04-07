@@ -111,7 +111,7 @@
         "name": "အထိမ်းအမှတ်နေ့များ ၁",
         "author": "Source Facebook",
         "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/days1.html",
-        "category": "GK, World+Myanmar"
+        "category": "GK, Day, World+Myanmar"
     },
     {
         "name": "Grammar Poem 1",
@@ -160,6 +160,48 @@
         "author": "Source Facebook",
         "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/arzarni9.html",
         "category": "GK, Myanmar"
+    },
+    {
+        "name": "ပြည်ထောင်စုဝန်ကြီးများနှင့် ဒုတိယ၀န်ကြီးများ",
+        "author": "Source Facebook",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/wungyi.html",
+        "category": "GK, Myanmar"
+    },
+    {
+        "name": "ပြည်ထောင်စုအင်္ဂါစဉ်",
+        "author": "Source Facebook",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/pyidaungsuingarsin.html",
+        "category": "GK, Myanmar"
+    },
+    {
+        "name": "ဝါကျ",
+        "author": "Source Facebook",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/watkya.html",
+        "category": "သဒ္ဒါ, Myanmar"
+    },
+    {
+        "name": "Grammar Poem 2",
+        "author": "Source Facebook",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/grammarpoem2.html",
+        "category": "English, Grammar"
+    },
+    {
+        "name": "ဝန်ထမ်းဝေါဟာရများ",
+        "author": "Source Facebook",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/wunhtanyarhtoo.html",
+        "category": "GK, Myanmar"
+    },
+    {
+        "name": "မြန်မာစာလုံးပေါင်းသတ်ပုံကျမ်း",
+        "author": "Source Facebook",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/salonepaungthetponekyan.html",
+        "category": "သဒ္ဒါ, Myanmar"
+    },
+    {
+        "name": "စာလုံးပေါင်းသတ်ပုံ ၁",
+        "author": "Source Facebook",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/bok/spelling.html",
+        "category": "သဒ္ဒါ, Myanmar"
     },
     {
         "name": "အသုံးအနှုန်းများ - say,tell,talk,ask",
