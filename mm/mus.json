@@ -1,14 +1,26 @@
 [
     {
         "name": "Alwan",
-        "author": "authorname",
-        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/mus/aa.mp3",
-        "category": "https://image.joox.com/JOOXcover/0/7986970a8caefafb/300"
+        "author": "Alan Walker",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/mus/Alan-Walker-Darkside-feat.-AuRa-and-Tomine-Harket.mp3",
+        "category": "https://tidybeats.com/storage/covers/2019/Dec/alan-walker-darkside.jpg"
     },
     {
         "name": "Alwan",
-        "author": "authorname",
-        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/mus/bb.mp3",
-        "category": "https://image.joox.com/JOOXcover/0/276124ff54a0f20a/300"
-    }
+        "author": "Alan Walker",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/mus/Alan-Walker-Sing-Me-To-Sleep.mp3",
+        "category": "https://i1.sndcdn.com/artworks-000184108303-fbq8kx-t500x500.jpg"
+    },
+    {
+        "name": "Alwan",
+        "author": "Alan Walker",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/mus/Alan-Walker-Faded.mp3",
+        "category": "https://d2tml28x3t0b85.cloudfront.net/tracks/artworks/000/857/805/original/47ecf0.jpeg"
+    },
+    {
+        "name": "Alwan",
+        "author": "Lenka",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/mus/troubleisafriend.mp3",
+        "category": "https://content.hungama.com/audio%20album/display%20image/300x300%20jpeg/404937385.jpg"
+    },
 ]
