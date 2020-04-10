@@ -24,6 +24,12 @@
         "category": "https://img.discogs.com/OCCbDXyNvPSlTpx1du8BsE8kbBU=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12223016-1530826794-3845.jpeg.jpg"
     },
     {
+        "name": "Blue Night",
+        "author": "Michael Learns",
+        "url": "https://raw.githubusercontent.com/xi038/m1m7/master/mus/bluenight.mp3",
+        "category": "https://m.media-amazon.com/images/I/818I+OBN3aL._SS500_.jpg"
+    },
+    {
         "name": "Alwan",
         "author": "Lenka",
         "url": "https://raw.githubusercontent.com/xi038/m1m7/master/mus/troubleisafriend.mp3",
